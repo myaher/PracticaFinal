@@ -1,0 +1,901 @@
+Month,Year,Autonomous Community,Province,Relation,Victim Age,Agressor Age,Previous Abuse Report,Living Together,Victims
+January,2003,Andalucía,Almería,Partner,41-50 years,51-64 years,Unknown,Yes,1
+January,2003,Andalucía,Granada,Partner,75-84 years,75-84 years,Unknown,Yes,1
+January,2003,Andalucía,Málaga,Partner,21-30 years,Unknown,Unknown,Yes,1
+January,2003,Canarias,Santa Cruz de Tenerife,Partner,31-40 years,Unknown,Unknown,Yes,1
+January,2003,Cataluña,Barcelona,Ex-partner,31-40 years,Unknown,Unknown,No,1
+January,2003,Cataluña,Barcelona,Partner,31-40 years,51-64 years,Unknown,Yes,1
+January,2003,Cataluña,Barcelona,Partner,Unknown,31-40 years,Unknown,Yes,1
+January,2003,La Rioja,La Rioja,Partner,31-40 years,31-40 years,Unknown,Yes,1
+February,2003,Andalucía,Málaga,Partner,75-84 years,65-74 years,Unknown,Yes,1
+February,2003,Cataluña,Tarragona,Partner,21-30 years,Unknown,Unknown,Yes,1
+February,2003,Galicia,A Coruña,Partner,65-74 years,65-74 years,Unknown,Yes,1
+February,2003,La Rioja,La Rioja,Ex-partner,21-30 years,31-40 years,Unknown,No,1
+March,2003,Andalucía,Cádiz,Partner,31-40 years,51-64 years,Unknown,Yes,1
+March,2003,Andalucía,Jaén,Ex-partner,21-30 years,Unknown,Unknown,No,1
+March,2003,Andalucía,Jaén,Ex-partner,31-40 years,Unknown,Unknown,No,1
+March,2003,Galicia,A Coruña,Partner,41-50 years,41-50 years,Unknown,Yes,1
+March,2003,Comunidad de Madrid,Madrid,Partner,65-74 years,65-74 years,Unknown,Yes,1
+March,2003,Región de Murcia,Murcia,Partner,21-30 years,Unknown,Unknown,Yes,1
+April,2003,Canarias,Las Palmas,Partner,21-30 years,21-30 years,Unknown,Yes,1
+April,2003,Cataluña,Barcelona,Partner,41-50 years,Unknown,Unknown,Yes,1
+April,2003,Comunidad Valenciana,Alicante,Partner,Unknown,Unknown,Unknown,Yes,1
+April,2003,Comunidad Valenciana,Valencia,Partner,31-40 years,31-40 years,Unknown,Yes,1
+April,2003,Comunidad Foral de Navarra,Navarra,Partner,31-40 years,41-50 years,Unknown,Yes,1
+May,2003,Aragón,Teruel,Partner,21-30 years,Unknown,Unknown,Yes,1
+May,2003,Castilla - La Mancha,Albacete,Partner,41-50 years,Unknown,Unknown,Yes,1
+May,2003,Cataluña,Girona,Partner,31-40 years,Unknown,Unknown,Yes,1
+May,2003,Cataluña,Tarragona,Ex-partner,41-50 years,Unknown,Unknown,No,1
+May,2003,Comunidad Valenciana,Valencia,Partner,21-30 years,Unknown,Unknown,Yes,1
+May,2003,Galicia,Pontevedra,Partner,31-40 years,Unknown,Unknown,Yes,1
+June,2003,Aragón,Zaragoza,Partner,31-40 years,Unknown,Unknown,Yes,1
+June,2003,Principado de Asturias,Asturias,Partner,Unknown,Unknown,Unknown,Yes,1
+June,2003,Castilla y León,Salamanca,Ex-partner,41-50 years,Unknown,Unknown,No,1
+June,2003,Cataluña,Barcelona,Ex-partner,51-64 years,41-50 years,Unknown,No,1
+June,2003,Cataluña,Lleida,Partner,65-74 years,65-74 years,Unknown,Yes,1
+June,2003,Galicia,A Coruña,Partner,31-40 years,31-40 years,Unknown,Yes,1
+June,2003,Región de Murcia,Murcia,Partner,31-40 years,Unknown,Unknown,Yes,1
+June,2003,Ceuta,Ceuta,Partner,31-40 years,31-40 years,Unknown,Yes,1
+July,2003,Islas Baleares,Islas Baleares,Partner,41-50 years,Unknown,Unknown,Yes,1
+July,2003,Cantabria,Cantabria,Partner,31-40 years,31-40 years,Unknown,Yes,1
+July,2003,Castilla - La Mancha,Toledo,Partner,21-30 years,Unknown,Unknown,Yes,1
+July,2003,Cataluña,Barcelona,Partner,31-40 years,Unknown,Unknown,Yes,1
+July,2003,Cataluña,Girona,Partner,Unknown,31-40 years,Unknown,Yes,1
+July,2003,Comunidad Valenciana,Castellón,Partner,Unknown,Unknown,Unknown,Yes,1
+July,2003,Galicia,Pontevedra,Ex-partner,31-40 years,Unknown,Unknown,No,1
+July,2003,Comunidad de Madrid,Madrid,Partner,41-50 years,Unknown,Unknown,Yes,1
+August,2003,Islas Baleares,Islas Baleares,Partner,51-64 years,51-64 years,Unknown,Yes,1
+August,2003,Islas Baleares,Islas Baleares,Partner,51-64 years,Unknown,Unknown,Yes,1
+August,2003,Canarias,Santa Cruz de Tenerife,Partner,31-40 years,31-40 years,Unknown,Yes,1
+August,2003,Canarias,Santa Cruz de Tenerife,Partner,Unknown,Unknown,Unknown,Yes,1
+August,2003,Castilla y León,Valladolid,Partner,65-74 years,Unknown,Unknown,Yes,1
+August,2003,Cataluña,Barcelona,Ex-partner,31-40 years,Unknown,Unknown,No,1
+August,2003,Comunidad Valenciana,Valencia,Ex-partner,18-20 years,Unknown,Unknown,No,1
+August,2003,Comunidad de Madrid,Madrid,Partner,41-50 years,51-64 years,Unknown,Yes,1
+September,2003,Andalucía,Jaén,Partner,>85 years,>85 years,Unknown,Yes,1
+September,2003,Andalucía,Sevilla,Partner,41-50 years,41-50 years,Unknown,Yes,1
+September,2003,Principado de Asturias,Asturias,Ex-partner,21-30 years,Unknown,Unknown,No,1
+September,2003,Comunidad Valenciana,Valencia,Ex-partner,21-30 years,31-40 years,Unknown,No,1
+October,2003,Extremadura,Badajoz,Partner,31-40 years,31-40 years,Unknown,Yes,1
+October,2003,Región de Murcia,Murcia,Partner,21-30 years,Unknown,Unknown,Yes,1
+November,2003,Andalucía,Cádiz,Ex-partner,21-30 years,Unknown,Unknown,No,1
+November,2003,Andalucía,Cádiz,Partner,41-50 years,51-64 years,Unknown,Yes,1
+November,2003,Andalucía,Córdoba,Partner,31-40 years,Unknown,Unknown,Yes,1
+November,2003,Andalucía,Sevilla,Partner,31-40 years,41-50 years,Unknown,Yes,1
+November,2003,Islas Baleares,Islas Baleares,Partner,31-40 years,Unknown,Unknown,Yes,1
+November,2003,Canarias,Las Palmas,Ex-partner,41-50 years,51-64 years,Unknown,No,1
+November,2003,Castilla y León,León,Ex-partner,51-64 years,Unknown,Unknown,No,1
+November,2003,Castilla y León,Valladolid,Partner,41-50 years,41-50 years,Unknown,Yes,1
+November,2003,Comunidad Valenciana,Valencia,Partner,41-50 years,51-64 years,Unknown,Yes,1
+December,2003,Canarias,Las Palmas,Ex-partner,31-40 years,41-50 years,Unknown,No,1
+December,2003,Comunidad de Madrid,Madrid,Partner,21-30 years,41-50 years,Unknown,Yes,1
+December,2003,Comunidad de Madrid,Madrid,Partner,31-40 years,41-50 years,Unknown,Yes,1
+January,2004,Islas Baleares,Islas Baleares,Ex-partner,31-40 years,41-50 years,Unknown,No,1
+January,2004,Extremadura,Badajoz,Partner,75-84 years,75-84 years,Unknown,Yes,1
+February,2004,Andalucía,Córdoba,Partner,21-30 years,21-30 years,Unknown,Yes,1
+February,2004,Andalucía,Sevilla,Partner,75-84 years,Unknown,Unknown,Yes,1
+February,2004,Islas Baleares,Islas Baleares,Partner,31-40 years,21-30 years,Unknown,Yes,1
+February,2004,Comunidad de Madrid,Madrid,Partner,21-30 years,31-40 years,Unknown,Yes,1
+February,2004,País Vasco,Vizcaya,Partner,31-40 years,31-40 years,Unknown,Yes,1
+March,2004,Andalucía,Almería,Partner,21-30 years,31-40 years,Unknown,Yes,1
+March,2004,Andalucía,Granada,Ex-partner,31-40 years,31-40 years,Unknown,No,1
+March,2004,Andalucía,Granada,Partner,41-50 years,Unknown,Unknown,Yes,1
+March,2004,Aragón,Zaragoza,Partner,21-30 years,21-30 years,Unknown,Yes,1
+March,2004,Canarias,Santa Cruz de Tenerife,Partner,51-64 years,65-74 years,Unknown,Yes,1
+March,2004,Cataluña,Barcelona,Partner,31-40 years,31-40 years,Unknown,Yes,1
+April,2004,Andalucía,Córdoba,Partner,75-84 years,75-84 years,Unknown,Yes,1
+April,2004,Andalucía,Málaga,Partner,21-30 years,31-40 years,Unknown,Yes,1
+April,2004,Castilla - La Mancha,Guadalajara,Partner,Unknown,Unknown,Unknown,Yes,1
+April,2004,Comunidad Valenciana,Valencia,Ex-partner,Unknown,41-50 years,Unknown,No,1
+April,2004,Comunidad de Madrid,Madrid,Partner,41-50 years,41-50 years,Unknown,Yes,1
+April,2004,Comunidad de Madrid,Madrid,Partner,51-64 years,Unknown,Unknown,Yes,1
+May,2004,Andalucía,Cádiz,Partner,18-20 years,21-30 years,Unknown,No,1
+May,2004,Andalucía,Córdoba,Ex-partner,18-20 years,21-30 years,Unknown,No,1
+May,2004,Aragón,Zaragoza,Partner,51-64 years,65-74 years,Unknown,Yes,1
+May,2004,Castilla y León,León,Partner,75-84 years,75-84 years,Unknown,Yes,1
+May,2004,Castilla - La Mancha,Albacete,Partner,21-30 years,Unknown,Unknown,Yes,1
+May,2004,Cataluña,Barcelona,Partner,31-40 years,Unknown,Unknown,Yes,1
+May,2004,Cataluña,Tarragona,Partner,<16 years,18-20 years,Unknown,No,1
+May,2004,Comunidad Valenciana,Valencia,Partner,51-64 years,51-64 years,Unknown,Yes,1
+June,2004,Andalucía,Granada,Partner,41-50 years,Unknown,Unknown,Yes,1
+June,2004,Andalucía,Granada,Partner,51-64 years,65-74 years,Unknown,Yes,1
+June,2004,Comunidad Valenciana,Valencia,Ex-partner,18-20 years,21-30 years,Unknown,No,1
+June,2004,Comunidad Valenciana,Valencia,Partner,65-74 years,65-74 years,Unknown,Yes,1
+June,2004,Comunidad Valenciana,Valencia,Partner,65-74 years,Unknown,Unknown,Yes,1
+June,2004,Comunidad Foral de Navarra,Navarra,Ex-partner,51-64 years,65-74 years,Unknown,No,1
+July,2004,Andalucía,Almería,Ex-partner,31-40 years,41-50 years,Unknown,No,1
+July,2004,Andalucía,Cádiz,Partner,31-40 years,31-40 years,Unknown,Yes,1
+July,2004,Canarias,Las Palmas,Partner,31-40 years,Unknown,Unknown,Yes,1
+July,2004,Cataluña,Barcelona,Ex-partner,41-50 years,41-50 years,Unknown,No,1
+July,2004,Comunidad de Madrid,Madrid,Partner,65-74 years,75-84 years,Unknown,Yes,1
+July,2004,Región de Murcia,Murcia,Partner,<16 years,18-20 years,Unknown,No,1
+July,2004,Región de Murcia,Murcia,Partner,31-40 years,31-40 years,Unknown,Yes,1
+August,2004,Andalucía,Cádiz,Ex-partner,41-50 years,Unknown,Unknown,No,1
+August,2004,Cantabria,Cantabria,Partner,31-40 years,31-40 years,Unknown,Yes,1
+August,2004,Castilla - La Mancha,Albacete,Ex-partner,31-40 years,41-50 years,Unknown,No,1
+August,2004,Cataluña,Barcelona,Partner,51-64 years,51-64 years,Unknown,Yes,1
+August,2004,Comunidad Valenciana,Valencia,Partner,31-40 years,Unknown,Unknown,Yes,1
+August,2004,Comunidad de Madrid,Madrid,Partner,21-30 years,31-40 years,Unknown,No,1
+September,2004,Andalucía,Sevilla,Partner,75-84 years,75-84 years,Unknown,Yes,1
+September,2004,Cantabria,Cantabria,Ex-partner,31-40 years,31-40 years,Unknown,No,1
+September,2004,Castilla y León,León,Partner,31-40 years,31-40 years,Unknown,Yes,1
+September,2004,Cataluña,Barcelona,Ex-partner,Unknown,Unknown,Unknown,No,1
+September,2004,Cataluña,Barcelona,Partner,18-20 years,21-30 years,Unknown,Yes,1
+September,2004,Cataluña,Tarragona,Partner,>85 years,>85 years,Unknown,Yes,1
+September,2004,País Vasco,Vizcaya,Ex-partner,21-30 years,21-30 years,Unknown,No,1
+October,2004,Andalucía,Córdoba,Ex-partner,31-40 years,Unknown,Unknown,No,1
+October,2004,Andalucía,Huelva,Partner,31-40 years,21-30 years,Unknown,No,1
+October,2004,Andalucía,Sevilla,Partner,51-64 years,51-64 years,Unknown,Yes,1
+October,2004,Cataluña,Tarragona,Partner,<16 years,31-40 years,Unknown,No,1
+October,2004,Comunidad Valenciana,Valencia,Partner,41-50 years,21-30 years,Unknown,Yes,1
+October,2004,Región de Murcia,Murcia,Partner,41-50 years,41-50 years,Unknown,Yes,1
+October,2004,La Rioja,La Rioja,Partner,65-74 years,65-74 years,Unknown,Yes,1
+November,2004,Andalucía,Sevilla,Partner,18-20 years,21-30 years,Unknown,Yes,1
+November,2004,Comunidad Valenciana,Alicante,Partner,51-64 years,Unknown,Unknown,Yes,1
+November,2004,Comunidad Valenciana,Valencia,Ex-partner,41-50 years,Unknown,Unknown,No,1
+November,2004,País Vasco,Vizcaya,Ex-partner,Unknown,16-17 years,Unknown,No,1
+December,2004,Castilla - La Mancha,Toledo,Partner,Unknown,21-30 years,Unknown,Yes,1
+December,2004,Cataluña,Barcelona,Partner,31-40 years,Unknown,Unknown,Yes,1
+December,2004,Cataluña,Barcelona,Partner,51-64 years,Unknown,Unknown,Yes,1
+December,2004,Extremadura,Cáceres,Partner,75-84 years,75-84 years,Unknown,Yes,1
+December,2004,Galicia,A Coruña,Partner,31-40 years,Unknown,Unknown,No,1
+December,2004,Galicia,Ourense,Partner,Unknown,Unknown,Unknown,Yes,1
+December,2004,Región de Murcia,Murcia,Partner,Unknown,Unknown,Unknown,No,1
+December,2004,País Vasco,Vizcaya,Partner,51-64 years,51-64 years,Unknown,Yes,1
+January,2005,Andalucía,Málaga,Partner,21-30 years,21-30 years,Unknown,Yes,1
+January,2005,Aragón,Huesca,Partner,75-84 years,Unknown,Unknown,Yes,1
+January,2005,Islas Baleares,Islas Baleares,Partner,21-30 years,21-30 years,Unknown,No,1
+January,2005,Castilla - La Mancha,Toledo,Ex-partner,51-64 years,51-64 years,Unknown,No,1
+January,2005,Región de Murcia,Murcia,Ex-partner,41-50 years,Unknown,Unknown,No,1
+January,2005,País Vasco,Vizcaya,Ex-partner,31-40 years,Unknown,Unknown,No,1
+February,2005,Andalucía,Córdoba,Ex-partner,21-30 years,21-30 years,Unknown,No,1
+February,2005,Andalucía,Granada,Partner,75-84 years,75-84 years,Unknown,Yes,1
+February,2005,Comunidad Valenciana,Alicante,Ex-partner,21-30 years,21-30 years,Unknown,No,1
+February,2005,Región de Murcia,Murcia,Partner,31-40 years,Unknown,Unknown,Yes,1
+February,2005,Comunidad Foral de Navarra,Navarra,Ex-partner,21-30 years,21-30 years,Unknown,No,1
+March,2005,Andalucía,Almería,Partner,18-20 years,21-30 years,Unknown,Yes,1
+March,2005,Islas Baleares,Islas Baleares,Partner,65-74 years,65-74 years,Unknown,Yes,1
+March,2005,Comunidad de Madrid,Madrid,Partner,Unknown,Unknown,Unknown,Yes,1
+April,2005,Andalucía,Málaga,Partner,21-30 years,21-30 years,Unknown,Yes,1
+April,2005,Canarias,Las Palmas,Partner,21-30 years,31-40 years,Unknown,Yes,1
+April,2005,Castilla y León,Burgos,Partner,31-40 years,Unknown,Unknown,Yes,1
+April,2005,Cataluña,Barcelona,Partner,51-64 years,Unknown,Unknown,Yes,1
+April,2005,Comunidad Valenciana,Alicante,Partner,31-40 years,31-40 years,Unknown,Yes,1
+May,2005,Aragón,Zaragoza,Partner,65-74 years,Unknown,Unknown,Yes,1
+May,2005,Canarias,Santa Cruz de Tenerife,Ex-partner,41-50 years,41-50 years,Unknown,No,1
+May,2005,Castilla y León,León,Partner,21-30 years,Unknown,Unknown,No,1
+May,2005,Cataluña,Barcelona,Ex-partner,21-30 years,31-40 years,Unknown,No,1
+June,2005,Canarias,Santa Cruz de Tenerife,Partner,41-50 years,41-50 years,Unknown,Yes,1
+June,2005,Castilla - La Mancha,Ciudad Real,Partner,75-84 years,75-84 years,Unknown,Yes,1
+June,2005,Cataluña,Barcelona,Partner,41-50 years,51-64 years,Unknown,Yes,1
+June,2005,Comunidad Valenciana,Valencia,Partner,65-74 years,Unknown,Unknown,Yes,1
+June,2005,Comunidad de Madrid,Madrid,Partner,31-40 years,31-40 years,Unknown,Yes,1
+June,2005,Comunidad Foral de Navarra,Navarra,Partner,31-40 years,31-40 years,Unknown,Yes,1
+July,2005,Aragón,Zaragoza,Partner,65-74 years,65-74 years,Unknown,Yes,1
+July,2005,Cataluña,Girona,Partner,51-64 years,Unknown,Unknown,Yes,1
+July,2005,Comunidad de Madrid,Madrid,Ex-partner,31-40 years,21-30 years,Unknown,No,1
+July,2005,Comunidad de Madrid,Madrid,Partner,31-40 years,31-40 years,Unknown,Yes,1
+August,2005,Principado de Asturias,Asturias,Partner,21-30 years,21-30 years,Unknown,No,1
+August,2005,Islas Baleares,Islas Baleares,Partner,41-50 years,31-40 years,Unknown,Yes,1
+August,2005,Islas Baleares,Islas Baleares,Partner,41-50 years,41-50 years,Unknown,Yes,1
+August,2005,Castilla y León,León,Partner,31-40 years,41-50 years,Unknown,Yes,1
+August,2005,Comunidad Valenciana,Alicante,Partner,Unknown,Unknown,Unknown,Yes,1
+August,2005,Comunidad Valenciana,Valencia,Partner,21-30 years,21-30 years,Unknown,No,1
+September,2005,Andalucía,Almería,Partner,18-20 years,Unknown,Unknown,No,1
+September,2005,Andalucía,Sevilla,Partner,75-84 years,75-84 years,Unknown,Yes,1
+September,2005,Canarias,Las Palmas,Ex-partner,31-40 years,41-50 years,Unknown,No,1
+September,2005,Castilla y León,Ávila,Partner,16-17 years,31-40 years,Unknown,No,1
+October,2005,Canarias,Las Palmas,Ex-partner,18-20 years,21-30 years,Unknown,No,1
+October,2005,Cataluña,Lleida,Ex-partner,41-50 years,51-64 years,Unknown,No,1
+October,2005,Cataluña,Tarragona,Ex-partner,41-50 years,41-50 years,Unknown,No,1
+October,2005,País Vasco,Vizcaya,Ex-partner,21-30 years,21-30 years,Unknown,No,1
+October,2005,País Vasco,Vizcaya,Partner,31-40 years,41-50 years,Unknown,Yes,1
+November,2005,Aragón,Zaragoza,Partner,75-84 years,Unknown,Unknown,Yes,1
+November,2005,Canarias,Las Palmas,Partner,41-50 years,41-50 years,Unknown,Yes,1
+November,2005,Cataluña,Girona,Ex-partner,21-30 years,Unknown,Unknown,No,1
+November,2005,Cataluña,Tarragona,Partner,41-50 years,Unknown,Unknown,Yes,1
+November,2005,Comunidad Valenciana,Alicante,Partner,31-40 years,41-50 years,Unknown,Yes,1
+November,2005,Galicia,Pontevedra,Partner,75-84 years,65-74 years,Unknown,Yes,1
+December,2005,Andalucía,Málaga,Partner,31-40 years,Unknown,Unknown,Yes,1
+December,2005,Andalucía,Sevilla,Partner,18-20 years,21-30 years,Unknown,Yes,1
+December,2005,Melilla,Melilla,Partner,31-40 years,41-50 years,Unknown,Yes,1
+January,2006,Andalucía,Cádiz,Partner,41-50 years,31-40 years,No,Yes,1
+January,2006,Andalucía,Granada,Ex-partner,31-40 years,41-50 years,Yes,No,1
+January,2006,Andalucía,Málaga,Ex-partner,21-30 years,Unknown,No,No,1
+January,2006,Andalucía,Málaga,Partner,31-40 years,41-50 years,Yes,Yes,1
+January,2006,Aragón,Zaragoza,Ex-partner,31-40 years,31-40 years,No,No,1
+January,2006,Islas Baleares,Islas Baleares,Ex-partner,21-30 years,41-50 years,No,No,1
+January,2006,Comunidad de Madrid,Madrid,Partner,31-40 years,31-40 years,No,Yes,1
+January,2006,Región de Murcia,Murcia,Ex-partner,21-30 years,21-30 years,Yes,No,1
+January,2006,País Vasco,Guipúzcoa,Partner,31-40 years,31-40 years,Yes,Yes,1
+February,2006,Andalucía,Sevilla,Partner,31-40 years,31-40 years,No,Yes,1
+February,2006,Cataluña,Barcelona,Ex-partner,21-30 years,18-20 years,No,No,1
+February,2006,Cataluña,Lleida,Partner,51-64 years,31-40 years,No,Yes,1
+February,2006,Comunidad de Madrid,Madrid,Partner,31-40 years,31-40 years,Yes,Yes,1
+March,2006,Principado de Asturias,Asturias,Partner,21-30 years,31-40 years,Yes,Yes,1
+March,2006,Castilla y León,Valladolid,Ex-partner,41-50 years,Unknown,No,No,1
+March,2006,Castilla - La Mancha,Cuenca,Partner,65-74 years,65-74 years,No,Yes,1
+March,2006,Cataluña,Barcelona,Ex-partner,31-40 years,31-40 years,No,No,1
+March,2006,Cataluña,Lleida,Partner,31-40 years,31-40 years,Yes,Yes,1
+March,2006,Comunidad Valenciana,Alicante,Partner,31-40 years,31-40 years,Yes,Yes,1
+March,2006,Comunidad Valenciana,Valencia,Partner,31-40 years,31-40 years,Yes,Yes,1
+March,2006,Comunidad de Madrid,Madrid,Partner,65-74 years,65-74 years,Yes,Yes,1
+March,2006,Región de Murcia,Murcia,Partner,51-64 years,65-74 years,No,Yes,1
+April,2006,Andalucía,Almería,Ex-partner,31-40 years,31-40 years,No,No,1
+April,2006,Andalucía,Málaga,Partner,65-74 years,Unknown,No,Yes,1
+April,2006,Canarias,Las Palmas,Partner,65-74 years,>85 years,No,Yes,1
+April,2006,Castilla y León,Burgos,Partner,31-40 years,31-40 years,No,No,1
+April,2006,Comunidad Valenciana,Alicante,Partner,41-50 years,51-64 years,No,Yes,1
+May,2006,Canarias,Las Palmas,Ex-partner,41-50 years,51-64 years,Yes,No,1
+May,2006,Cataluña,Barcelona,Partner,31-40 years,31-40 years,Yes,Yes,1
+May,2006,Extremadura,Cáceres,Ex-partner,31-40 years,21-30 years,No,No,1
+May,2006,Comunidad de Madrid,Madrid,Partner,31-40 years,51-64 years,No,Yes,1
+May,2006,País Vasco,Vizcaya,Partner,31-40 years,31-40 years,No,Yes,1
+June,2006,Andalucía,Córdoba,Ex-partner,31-40 years,Unknown,Yes,No,1
+June,2006,Región de Murcia,Murcia,Partner,65-74 years,65-74 years,No,Yes,1
+July,2006,Andalucía,Almería,Partner,41-50 years,41-50 years,No,Yes,1
+July,2006,Principado de Asturias,Asturias,Ex-partner,21-30 years,41-50 years,No,No,1
+July,2006,Islas Baleares,Islas Baleares,Partner,51-64 years,65-74 years,No,Yes,1
+July,2006,Castilla y León,Ávila,Partner,21-30 years,Unknown,No,No,1
+July,2006,Castilla - La Mancha,Ciudad Real,Partner,31-40 years,41-50 years,No,Yes,1
+July,2006,Comunidad Valenciana,Valencia,Partner,65-74 years,75-84 years,No,Yes,1
+July,2006,Comunidad de Madrid,Madrid,Ex-partner,18-20 years,21-30 years,Yes,No,1
+July,2006,País Vasco,Vizcaya,Partner,21-30 years,21-30 years,No,Yes,1
+August,2006,Andalucía,Granada,Partner,41-50 years,31-40 years,No,Yes,1
+August,2006,Andalucía,Jaén,Ex-partner,18-20 years,18-20 years,No,No,1
+August,2006,Andalucía,Sevilla,Partner,51-64 years,51-64 years,Yes,Yes,1
+August,2006,Canarias,Las Palmas,Partner,31-40 years,31-40 years,No,Yes,1
+August,2006,Castilla - La Mancha,Ciudad Real,Partner,21-30 years,21-30 years,No,Yes,1
+August,2006,Castilla - La Mancha,Ciudad Real,Partner,21-30 years,21-30 years,Yes,Yes,1
+August,2006,Cataluña,Barcelona,Ex-partner,31-40 years,21-30 years,No,No,1
+August,2006,Cataluña,Barcelona,Partner,31-40 years,31-40 years,No,Yes,1
+August,2006,Cataluña,Girona,Partner,31-40 years,31-40 years,No,Yes,1
+September,2006,Andalucía,Almería,Partner,31-40 years,41-50 years,Yes,Yes,1
+September,2006,Andalucía,Córdoba,Partner,16-17 years,21-30 years,No,No,1
+September,2006,Andalucía,Granada,Partner,41-50 years,41-50 years,No,Yes,1
+September,2006,Andalucía,Granada,Partner,75-84 years,75-84 years,No,Yes,1
+October,2006,Andalucía,Granada,Partner,31-40 years,41-50 years,No,Yes,1
+October,2006,Andalucía,Jaén,Partner,21-30 years,31-40 years,No,No,1
+October,2006,Islas Baleares,Islas Baleares,Partner,21-30 years,41-50 years,Yes,No,1
+October,2006,Cataluña,Girona,Partner,21-30 years,31-40 years,No,Yes,1
+October,2006,Comunidad Valenciana,Alicante,Partner,65-74 years,75-84 years,No,Yes,1
+October,2006,Comunidad Valenciana,Castellón,Partner,31-40 years,21-30 years,No,Yes,1
+November,2006,Andalucía,Sevilla,Ex-partner,41-50 years,41-50 years,Yes,No,1
+November,2006,Comunidad Valenciana,Castellón,Partner,75-84 years,>85 years,No,Yes,1
+December,2006,Andalucía,Jaén,Partner,21-30 years,18-20 years,No,Yes,1
+December,2006,Andalucía,Málaga,Partner,41-50 years,41-50 years,Yes,Yes,1
+December,2006,Principado de Asturias,Asturias,Partner,75-84 years,>85 years,No,Yes,1
+December,2006,Canarias,Santa Cruz de Tenerife,Partner,21-30 years,31-40 years,No,No,1
+December,2006,Cataluña,Barcelona,Partner,31-40 years,21-30 years,Yes,Yes,1
+December,2006,Comunidad Valenciana,Valencia,Ex-partner,51-64 years,51-64 years,Yes,No,1
+January,2007,Islas Baleares,Islas Baleares,Partner,31-40 years,31-40 years,Yes,Yes,1
+January,2007,Castilla y León,Soria,Ex-partner,31-40 years,41-50 years,No,No,1
+January,2007,Castilla - La Mancha,Ciudad Real,Ex-partner,31-40 years,41-50 years,No,No,1
+January,2007,Cataluña,Lleida,Ex-partner,31-40 years,41-50 years,No,No,1
+January,2007,Comunidad de Madrid,Madrid,Partner,41-50 years,31-40 years,No,Yes,1
+February,2007,Andalucía,Sevilla,Partner,31-40 years,31-40 years,Yes,No,1
+February,2007,Principado de Asturias,Asturias,Partner,65-74 years,65-74 years,No,Yes,1
+February,2007,Cataluña,Barcelona,Partner,51-64 years,51-64 years,No,Yes,1
+February,2007,Comunidad Valenciana,Alicante,Ex-partner,31-40 years,31-40 years,Yes,No,1
+February,2007,Galicia,A Coruña,Partner,75-84 years,75-84 years,No,Yes,1
+February,2007,Galicia,Pontevedra,Partner,21-30 years,21-30 years,No,Yes,1
+February,2007,Galicia,Pontevedra,Partner,41-50 years,41-50 years,No,Yes,1
+February,2007,Comunidad de Madrid,Madrid,Partner,21-30 years,21-30 years,No,Yes,1
+February,2007,Comunidad de Madrid,Madrid,Partner,31-40 years,31-40 years,Yes,No,1
+March,2007,Cataluña,Girona,Partner,41-50 years,41-50 years,No,No,1
+March,2007,Comunidad Valenciana,Alicante,Ex-partner,21-30 years,21-30 years,Yes,No,1
+March,2007,Comunidad Valenciana,Castellón,Partner,31-40 years,41-50 years,Yes,Yes,1
+March,2007,País Vasco,Vizcaya,Partner,65-74 years,75-84 years,No,Yes,1
+April,2007,Cataluña,Tarragona,Partner,31-40 years,41-50 years,No,Yes,1
+April,2007,Comunidad de Madrid,Madrid,Ex-partner,21-30 years,31-40 years,Yes,No,1
+April,2007,Comunidad de Madrid,Madrid,Partner,21-30 years,31-40 years,No,No,1
+April,2007,Comunidad Foral de Navarra,Navarra,Partner,21-30 years,21-30 years,No,Yes,1
+May,2007,Andalucía,Almería,Partner,21-30 years,21-30 years,No,Yes,1
+May,2007,Andalucía,Jaén,Partner,41-50 years,41-50 years,No,Yes,1
+May,2007,Andalucía,Sevilla,Partner,75-84 years,75-84 years,No,Yes,1
+May,2007,Canarias,Santa Cruz de Tenerife,Partner,21-30 years,21-30 years,No,Yes,1
+May,2007,Cantabria,Cantabria,Partner,41-50 years,31-40 years,No,Yes,1
+May,2007,Castilla - La Mancha,Ciudad Real,Partner,21-30 years,31-40 years,No,Yes,1
+May,2007,Comunidad Valenciana,Valencia,Ex-partner,18-20 years,21-30 years,No,No,1
+June,2007,Principado de Asturias,Asturias,Partner,21-30 years,31-40 years,No,No,1
+June,2007,Canarias,Santa Cruz de Tenerife,Partner,65-74 years,65-74 years,No,Yes,1
+June,2007,Canarias,Santa Cruz de Tenerife,Partner,75-84 years,65-74 years,Yes,Yes,1
+June,2007,Castilla - La Mancha,Albacete,Ex-partner,51-64 years,51-64 years,No,No,1
+June,2007,Castilla - La Mancha,Toledo,Partner,21-30 years,21-30 years,Yes,Yes,1
+June,2007,Comunidad Valenciana,Alicante,Ex-partner,41-50 years,31-40 years,Yes,No,1
+June,2007,Comunidad Valenciana,Alicante,Ex-partner,41-50 years,41-50 years,Yes,No,1
+June,2007,Galicia,A Coruña,Partner,65-74 years,65-74 years,No,Yes,1
+June,2007,Región de Murcia,Murcia,Partner,41-50 years,31-40 years,Yes,Yes,1
+June,2007,País Vasco,Álava,Partner,31-40 years,41-50 years,Yes,Yes,1
+July,2007,Castilla y León,Segovia,Partner,41-50 years,51-64 years,No,Yes,1
+July,2007,Castilla - La Mancha,Toledo,Partner,21-30 years,31-40 years,Yes,Yes,1
+July,2007,Cataluña,Barcelona,Partner,41-50 years,51-64 years,No,Yes,1
+July,2007,Cataluña,Barcelona,Partner,75-84 years,65-74 years,No,Yes,1
+July,2007,Comunidad Valenciana,Castellón,Partner,41-50 years,51-64 years,No,Yes,1
+July,2007,Comunidad de Madrid,Madrid,Partner,31-40 years,31-40 years,Yes,Yes,1
+July,2007,Región de Murcia,Murcia,Partner,31-40 years,21-30 years,Yes,Yes,1
+July,2007,Melilla,Melilla,Partner,41-50 years,65-74 years,Yes,Yes,1
+August,2007,Andalucía,Huelva,Partner,51-64 years,65-74 years,No,Yes,1
+August,2007,Canarias,Santa Cruz de Tenerife,Partner,51-64 years,51-64 years,No,Yes,1
+August,2007,Canarias,Santa Cruz de Tenerife,Partner,65-74 years,41-50 years,No,Yes,1
+August,2007,Cataluña,Tarragona,Partner,21-30 years,21-30 years,No,Yes,1
+August,2007,Comunidad Valenciana,Alicante,Partner,41-50 years,41-50 years,No,Yes,1
+August,2007,Comunidad Valenciana,Valencia,Partner,18-20 years,21-30 years,Yes,Yes,1
+August,2007,Comunidad de Madrid,Madrid,Ex-partner,21-30 years,31-40 years,No,No,1
+September,2007,Aragón,Teruel,Partner,51-64 years,51-64 years,No,Yes,1
+September,2007,Aragón,Zaragoza,Partner,51-64 years,65-74 years,No,Yes,1
+September,2007,Cataluña,Barcelona,Partner,21-30 years,21-30 years,No,Yes,1
+September,2007,Cataluña,Tarragona,Partner,51-64 years,51-64 years,No,No,1
+October,2007,Andalucía,Córdoba,Ex-partner,31-40 years,31-40 years,No,No,1
+October,2007,Andalucía,Málaga,Partner,21-30 years,21-30 years,No,No,1
+October,2007,Andalucía,Sevilla,Ex-partner,31-40 years,31-40 years,No,No,1
+October,2007,Castilla y León,Valladolid,Partner,51-64 years,51-64 years,No,Yes,1
+October,2007,Comunidad de Madrid,Madrid,Partner,41-50 years,41-50 years,No,Yes,1
+November,2007,Canarias,Las Palmas,Ex-partner,31-40 years,31-40 years,No,No,1
+November,2007,Cantabria,Cantabria,Partner,75-84 years,75-84 years,Yes,Yes,1
+November,2007,Cataluña,Barcelona,Partner,21-30 years,41-50 years,Yes,Yes,1
+November,2007,Cataluña,Girona,Partner,65-74 years,65-74 years,No,Yes,1
+November,2007,Cataluña,Tarragona,Partner,51-64 years,41-50 years,No,No,1
+November,2007,Comunidad Valenciana,Alicante,Ex-partner,21-30 years,21-30 years,Yes,No,1
+November,2007,Comunidad de Madrid,Madrid,Partner,21-30 years,21-30 years,No,Yes,1
+December,2007,Galicia,Pontevedra,Ex-partner,41-50 years,31-40 years,No,No,1
+January,2008,Andalucía,Málaga,Partner,41-50 years,51-64 years,No,Yes,1
+January,2008,Comunidad Valenciana,Alicante,Partner,21-30 years,21-30 years,No,Yes,1
+January,2008,Galicia,Pontevedra,Partner,51-64 years,65-74 years,No,Yes,1
+January,2008,Comunidad de Madrid,Madrid,Partner,21-30 years,21-30 years,No,Yes,1
+January,2008,Comunidad de Madrid,Madrid,Partner,41-50 years,31-40 years,No,Yes,1
+January,2008,Región de Murcia,Murcia,Partner,51-64 years,51-64 years,No,Yes,1
+January,2008,Comunidad Foral de Navarra,Navarra,Partner,18-20 years,21-30 years,No,No,1
+February,2008,Andalucía,Cádiz,Partner,41-50 years,51-64 years,Yes,No,1
+February,2008,Canarias,Santa Cruz de Tenerife,Partner,41-50 years,41-50 years,No,Yes,1
+February,2008,Castilla y León,Valladolid,Ex-partner,51-64 years,51-64 years,No,No,1
+February,2008,Castilla - La Mancha,Guadalajara,Partner,41-50 years,41-50 years,Yes,Yes,1
+February,2008,Comunidad Valenciana,Valencia,Ex-partner,41-50 years,51-64 years,Yes,No,1
+February,2008,Comunidad Valenciana,Valencia,Partner,41-50 years,41-50 years,No,Yes,1
+February,2008,Comunidad de Madrid,Madrid,Partner,21-30 years,21-30 years,No,Yes,1
+February,2008,Comunidad de Madrid,Madrid,Partner,41-50 years,41-50 years,No,Yes,1
+March,2008,Andalucía,Almería,Partner,51-64 years,51-64 years,No,Yes,1
+March,2008,Castilla y León,Burgos,Partner,51-64 years,65-74 years,No,No,1
+March,2008,Cataluña,Barcelona,Ex-partner,21-30 years,21-30 years,No,No,1
+March,2008,Comunidad Valenciana,Alicante,Partner,41-50 years,41-50 years,Yes,Yes,1
+April,2008,Aragón,Huesca,Partner,21-30 years,21-30 years,No,Yes,1
+April,2008,Castilla - La Mancha,Guadalajara,Ex-partner,31-40 years,31-40 years,Yes,No,1
+April,2008,Comunidad Valenciana,Alicante,Ex-partner,18-20 years,31-40 years,Yes,No,1
+April,2008,Comunidad Valenciana,Alicante,Partner,16-17 years,21-30 years,No,No,1
+April,2008,Comunidad de Madrid,Madrid,Ex-partner,31-40 years,31-40 years,No,No,1
+May,2008,Andalucía,Cádiz,Ex-partner,65-74 years,75-84 years,Yes,No,1
+May,2008,Castilla y León,Zamora,Partner,31-40 years,41-50 years,No,Yes,1
+May,2008,Cataluña,Barcelona,Ex-partner,31-40 years,31-40 years,No,No,1
+June,2008,Andalucía,Córdoba,Partner,75-84 years,75-84 years,No,Yes,1
+June,2008,Cataluña,Barcelona,Partner,51-64 years,41-50 years,No,Yes,1
+June,2008,Cataluña,Girona,Partner,21-30 years,31-40 years,No,Yes,1
+June,2008,Comunidad de Madrid,Madrid,Ex-partner,31-40 years,31-40 years,Yes,No,1
+June,2008,La Rioja,La Rioja,Partner,21-30 years,31-40 years,No,Yes,1
+July,2008,Principado de Asturias,Asturias,Ex-partner,31-40 years,41-50 years,No,No,1
+July,2008,Cataluña,Barcelona,Partner,31-40 years,31-40 years,No,No,1
+July,2008,Comunidad de Madrid,Madrid,Ex-partner,31-40 years,41-50 years,No,No,1
+July,2008,Región de Murcia,Murcia,Partner,31-40 years,41-50 years,No,Yes,1
+July,2008,La Rioja,La Rioja,Ex-partner,41-50 years,51-64 years,Yes,No,1
+August,2008,Canarias,Santa Cruz de Tenerife,Ex-partner,21-30 years,41-50 years,Yes,No,1
+August,2008,Castilla y León,Salamanca,Partner,18-20 years,18-20 years,No,No,1
+August,2008,Cataluña,Girona,Ex-partner,18-20 years,31-40 years,No,No,1
+August,2008,Comunidad Valenciana,Valencia,Partner,41-50 years,31-40 years,No,Yes,1
+August,2008,Galicia,Pontevedra,Partner,21-30 years,41-50 years,No,Yes,1
+August,2008,Comunidad de Madrid,Madrid,Partner,51-64 years,51-64 years,No,Yes,1
+August,2008,Comunidad Foral de Navarra,Navarra,Partner,51-64 years,75-84 years,No,Yes,1
+August,2008,País Vasco,Álava,Partner,65-74 years,65-74 years,No,Yes,1
+September,2008,Andalucía,Málaga,Ex-partner,21-30 years,21-30 years,Yes,No,1
+September,2008,Islas Baleares,Islas Baleares,Partner,21-30 years,31-40 years,No,Yes,1
+September,2008,Castilla y León,Valladolid,Ex-partner,41-50 years,41-50 years,No,No,1
+September,2008,Castilla y León,Valladolid,Partner,21-30 years,21-30 years,No,No,1
+September,2008,Cataluña,Barcelona,Ex-partner,41-50 years,41-50 years,No,No,1
+September,2008,Comunidad Valenciana,Valencia,Ex-partner,31-40 years,31-40 years,No,No,1
+September,2008,Comunidad de Madrid,Madrid,Partner,65-74 years,65-74 years,No,Yes,1
+October,2008,Andalucía,Cádiz,Partner,31-40 years,31-40 years,No,No,1
+October,2008,Andalucía,Granada,Partner,31-40 years,31-40 years,No,No,1
+October,2008,Andalucía,Granada,Partner,41-50 years,41-50 years,Yes,No,1
+October,2008,Comunidad de Madrid,Madrid,Partner,21-30 years,41-50 years,No,Yes,1
+October,2008,Región de Murcia,Murcia,Partner,21-30 years,31-40 years,No,No,1
+October,2008,Comunidad Foral de Navarra,Navarra,Ex-partner,41-50 years,51-64 years,Yes,No,1
+October,2008,País Vasco,Vizcaya,Partner,21-30 years,31-40 years,No,Yes,1
+November,2008,Comunidad Valenciana,Valencia,Partner,21-30 years,31-40 years,No,Yes,1
+November,2008,Galicia,A Coruña,Ex-partner,41-50 years,31-40 years,No,No,1
+November,2008,Galicia,Pontevedra,Ex-partner,21-30 years,41-50 years,No,No,1
+November,2008,Galicia,Pontevedra,Partner,51-64 years,51-64 years,No,Yes,1
+November,2008,Comunidad de Madrid,Madrid,Partner,65-74 years,65-74 years,Yes,Yes,1
+November,2008,Región de Murcia,Murcia,Ex-partner,41-50 years,75-84 years,No,No,1
+December,2008,Canarias,Las Palmas,Partner,21-30 years,21-30 years,No,No,1
+December,2008,Canarias,Las Palmas,Partner,21-30 years,31-40 years,No,Yes,1
+December,2008,Canarias,Santa Cruz de Tenerife,Partner,65-74 years,75-84 years,Yes,Yes,1
+December,2008,Castilla - La Mancha,Guadalajara,Partner,21-30 years,21-30 years,No,No,1
+December,2008,Cataluña,Barcelona,Partner,31-40 years,31-40 years,Yes,No,1
+December,2008,Cataluña,Barcelona,Partner,51-64 years,51-64 years,Yes,Yes,1
+December,2008,Cataluña,Lleida,Partner,41-50 years,51-64 years,No,Yes,1
+December,2008,Comunidad Valenciana,Valencia,Partner,31-40 years,21-30 years,Yes,Yes,1
+December,2008,Galicia,A Coruña,Partner,51-64 years,65-74 years,No,Yes,1
+December,2008,Galicia,Pontevedra,Partner,41-50 years,41-50 years,No,Yes,1
+December,2008,País Vasco,Guipúzcoa,Partner,31-40 years,21-30 years,No,Yes,1
+February,2009,Andalucía,Granada,Ex-partner,51-64 years,65-74 years,No,No,1
+February,2009,Andalucía,Huelva,Partner,31-40 years,31-40 years,No,No,1
+February,2009,Andalucía,Sevilla,Partner,21-30 years,21-30 years,Yes,Yes,1
+February,2009,Comunidad de Madrid,Madrid,Partner,21-30 years,31-40 years,No,No,1
+February,2009,Comunidad de Madrid,Madrid,Partner,31-40 years,31-40 years,No,No,1
+March,2009,Canarias,Santa Cruz de Tenerife,Ex-partner,31-40 years,41-50 years,No,No,1
+March,2009,Cataluña,Tarragona,Ex-partner,21-30 years,31-40 years,Yes,No,1
+March,2009,Comunidad Valenciana,Castellón,Partner,41-50 years,41-50 years,Yes,Yes,1
+March,2009,Comunidad Valenciana,Valencia,Partner,65-74 years,51-64 years,No,Yes,1
+March,2009,País Vasco,Vizcaya,Partner,41-50 years,41-50 years,Yes,Yes,1
+April,2009,Andalucía,Granada,Partner,75-84 years,75-84 years,No,Yes,1
+April,2009,Extremadura,Cáceres,Partner,51-64 years,65-74 years,Yes,Yes,1
+May,2009,Andalucía,Almería,Partner,41-50 years,41-50 years,No,Yes,1
+May,2009,Canarias,Santa Cruz de Tenerife,Ex-partner,31-40 years,31-40 years,Yes,No,1
+May,2009,Canarias,Santa Cruz de Tenerife,Ex-partner,41-50 years,41-50 years,Yes,No,1
+May,2009,Cataluña,Barcelona,Ex-partner,18-20 years,21-30 years,No,No,1
+May,2009,Cataluña,Barcelona,Ex-partner,31-40 years,51-64 years,Yes,No,1
+May,2009,Cataluña,Barcelona,Partner,18-20 years,21-30 years,No,Yes,1
+May,2009,Comunidad Valenciana,Alicante,Partner,18-20 years,21-30 years,No,Yes,1
+May,2009,Comunidad Valenciana,Castellón,Partner,31-40 years,31-40 years,Yes,Yes,1
+May,2009,País Vasco,Guipúzcoa,Partner,31-40 years,31-40 years,No,No,1
+June,2009,Canarias,Las Palmas,Partner,51-64 years,51-64 years,No,No,1
+June,2009,Cataluña,Barcelona,Ex-partner,31-40 years,21-30 years,No,No,1
+June,2009,Comunidad Valenciana,Alicante,Partner,31-40 years,41-50 years,No,Yes,1
+June,2009,Comunidad de Madrid,Madrid,Partner,21-30 years,21-30 years,Yes,Yes,1
+June,2009,Comunidad de Madrid,Madrid,Partner,75-84 years,75-84 years,No,Yes,1
+July,2009,Andalucía,Málaga,Partner,51-64 years,51-64 years,No,Yes,1
+July,2009,Andalucía,Sevilla,Partner,51-64 years,51-64 years,No,Yes,1
+July,2009,Castilla - La Mancha,Toledo,Partner,31-40 years,21-30 years,Yes,No,1
+July,2009,Galicia,A Coruña,Ex-partner,31-40 years,41-50 years,No,No,1
+July,2009,Región de Murcia,Murcia,Partner,41-50 years,65-74 years,No,Yes,1
+July,2009,Ceuta,Ceuta,Partner,21-30 years,31-40 years,No,Yes,1
+August,2009,Andalucía,Málaga,Partner,65-74 years,65-74 years,No,Yes,1
+August,2009,Cataluña,Barcelona,Partner,21-30 years,18-20 years,No,Yes,1
+August,2009,Cataluña,Barcelona,Partner,41-50 years,41-50 years,No,Yes,1
+August,2009,Galicia,A Coruña,Partner,75-84 years,75-84 years,No,Yes,1
+August,2009,Galicia,Ourense,Ex-partner,18-20 years,31-40 years,Yes,No,1
+August,2009,Región de Murcia,Murcia,Partner,21-30 years,31-40 years,No,Yes,1
+September,2009,Andalucía,Almería,Ex-partner,41-50 years,51-64 years,No,No,1
+September,2009,Canarias,Santa Cruz de Tenerife,Partner,31-40 years,31-40 years,No,Yes,1
+September,2009,Castilla y León,Ávila,Partner,21-30 years,21-30 years,Yes,No,1
+September,2009,Cataluña,Barcelona,Partner,21-30 years,31-40 years,Yes,Yes,1
+September,2009,Comunidad Valenciana,Alicante,Partner,31-40 years,41-50 years,No,Yes,1
+September,2009,Comunidad Valenciana,Valencia,Partner,31-40 years,31-40 years,No,Yes,1
+October,2009,Andalucía,Córdoba,Partner,51-64 years,65-74 years,No,Yes,1
+October,2009,Andalucía,Málaga,Ex-partner,21-30 years,21-30 years,No,No,1
+October,2009,Islas Baleares,Islas Baleares,Partner,31-40 years,41-50 years,No,Yes,1
+October,2009,Cataluña,Tarragona,Partner,31-40 years,31-40 years,No,Yes,1
+October,2009,Cataluña,Tarragona,Partner,41-50 years,51-64 years,No,Yes,1
+October,2009,Comunidad Valenciana,Alicante,Partner,51-64 years,65-74 years,No,Yes,1
+November,2009,La Rioja,La Rioja,Ex-partner,31-40 years,31-40 years,No,No,1
+December,2009,Andalucía,Almería,Partner,65-74 years,65-74 years,No,Yes,1
+December,2009,Andalucía,Huelva,Partner,41-50 years,21-30 years,No,Yes,1
+December,2009,Andalucía,Málaga,Partner,21-30 years,21-30 years,No,Yes,1
+December,2009,Comunidad Valenciana,Valencia,Partner,75-84 years,>85 years,No,Yes,1
+December,2009,Comunidad de Madrid,Madrid,Ex-partner,18-20 years,31-40 years,No,No,1
+January,2010,Andalucía,Sevilla,Partner,41-50 years,51-64 years,No,Yes,1
+January,2010,Islas Baleares,Islas Baleares,Partner,41-50 years,51-64 years,No,Yes,1
+January,2010,Comunidad de Madrid,Madrid,Ex-partner,31-40 years,31-40 years,No,No,1
+February,2010,Andalucía,Almería,Partner,21-30 years,31-40 years,No,Yes,1
+February,2010,Principado de Asturias,Asturias,Partner,51-64 years,51-64 years,No,Yes,1
+February,2010,Cataluña,Tarragona,Partner,31-40 years,41-50 years,Yes,Yes,1
+February,2010,Comunidad de Madrid,Madrid,Partner,21-30 years,31-40 years,No,Yes,1
+March,2010,Andalucía,Almería,Partner,41-50 years,41-50 years,No,Yes,1
+March,2010,Andalucía,Huelva,Ex-partner,51-64 years,51-64 years,Yes,No,1
+March,2010,Canarias,Santa Cruz de Tenerife,Ex-partner,31-40 years,65-74 years,No,No,1
+March,2010,Castilla y León,Burgos,Ex-partner,21-30 years,31-40 years,No,No,1
+March,2010,Castilla y León,Valladolid,Partner,51-64 years,51-64 years,No,No,1
+March,2010,Cataluña,Barcelona,Partner,31-40 years,31-40 years,No,Yes,1
+March,2010,Comunidad Valenciana,Castellón,Partner,51-64 years,65-74 years,No,Yes,1
+April,2010,Andalucía,Málaga,Ex-partner,51-64 years,75-84 years,No,No,1
+April,2010,Aragón,Zaragoza,Partner,21-30 years,41-50 years,Yes,Yes,1
+April,2010,Principado de Asturias,Asturias,Partner,41-50 years,31-40 years,No,Yes,1
+April,2010,Principado de Asturias,Asturias,Partner,51-64 years,51-64 years,No,Yes,1
+April,2010,Castilla y León,Burgos,Partner,51-64 years,51-64 years,No,Yes,1
+April,2010,Comunidad Valenciana,Alicante,Ex-partner,21-30 years,31-40 years,Yes,No,1
+April,2010,Comunidad Valenciana,Valencia,Partner,51-64 years,41-50 years,Yes,Yes,1
+April,2010,Comunidad de Madrid,Madrid,Partner,21-30 years,31-40 years,No,Yes,1
+May,2010,Andalucía,Sevilla,Ex-partner,31-40 years,31-40 years,No,No,1
+May,2010,Andalucía,Sevilla,Partner,41-50 years,31-40 years,No,Yes,1
+May,2010,Canarias,Santa Cruz de Tenerife,Partner,31-40 years,31-40 years,No,Yes,1
+May,2010,Cataluña,Barcelona,Partner,31-40 years,31-40 years,No,Yes,1
+May,2010,Cataluña,Girona,Partner,41-50 years,51-64 years,No,Yes,1
+May,2010,Región de Murcia,Murcia,Partner,65-74 years,51-64 years,No,Yes,1
+June,2010,Andalucía,Almería,Partner,31-40 years,31-40 years,No,Yes,1
+June,2010,Principado de Asturias,Asturias,Partner,51-64 years,51-64 years,No,Yes,1
+June,2010,Canarias,Santa Cruz de Tenerife,Partner,41-50 years,41-50 years,Yes,Yes,1
+June,2010,Cataluña,Girona,Partner,31-40 years,51-64 years,No,No,1
+June,2010,Comunidad Valenciana,Alicante,Ex-partner,51-64 years,51-64 years,No,No,1
+July,2010,Andalucía,Cádiz,Partner,51-64 years,65-74 years,No,No,1
+July,2010,Andalucía,Granada,Ex-partner,41-50 years,65-74 years,Yes,No,1
+July,2010,Aragón,Zaragoza,Partner,41-50 years,41-50 years,No,No,1
+July,2010,Canarias,Las Palmas,Partner,21-30 years,31-40 years,No,No,1
+July,2010,Canarias,Santa Cruz de Tenerife,Partner,31-40 years,31-40 years,No,Yes,1
+July,2010,Canarias,Santa Cruz de Tenerife,Partner,41-50 years,51-64 years,No,Yes,1
+July,2010,Castilla - La Mancha,Cuenca,Partner,31-40 years,41-50 years,Yes,Yes,1
+July,2010,Castilla - La Mancha,Cuenca,Partner,65-74 years,75-84 years,No,Yes,1
+July,2010,Cataluña,Barcelona,Partner,21-30 years,31-40 years,Yes,Yes,1
+July,2010,País Vasco,Vizcaya,Partner,31-40 years,41-50 years,Yes,Yes,1
+August,2010,Cataluña,Girona,Partner,41-50 years,31-40 years,Yes,Yes,1
+August,2010,Galicia,Lugo,Partner,41-50 years,41-50 years,No,Yes,1
+September,2010,Andalucía,Almería,Ex-partner,31-40 years,41-50 years,No,No,1
+September,2010,Andalucía,Córdoba,Partner,21-30 years,31-40 years,No,Yes,1
+September,2010,Principado de Asturias,Asturias,Ex-partner,21-30 years,21-30 years,Yes,No,1
+September,2010,Castilla y León,Palencia,Partner,41-50 years,41-50 years,Yes,No,1
+September,2010,Cataluña,Barcelona,Partner,21-30 years,31-40 years,No,Yes,1
+September,2010,Cataluña,Girona,Ex-partner,31-40 years,31-40 years,No,No,1
+September,2010,Comunidad Valenciana,Castellón,Ex-partner,31-40 years,41-50 years,Yes,No,1
+September,2010,Galicia,A Coruña,Ex-partner,31-40 years,51-64 years,No,No,1
+October,2010,Andalucía,Granada,Partner,31-40 years,51-64 years,No,Yes,1
+October,2010,Andalucía,Málaga,Partner,75-84 years,75-84 years,No,Yes,1
+October,2010,Cataluña,Barcelona,Partner,41-50 years,41-50 years,No,Yes,1
+October,2010,Cataluña,Tarragona,Partner,21-30 years,31-40 years,Yes,No,1
+October,2010,Comunidad Valenciana,Alicante,Partner,51-64 years,51-64 years,No,Yes,1
+October,2010,Comunidad de Madrid,Madrid,Partner,41-50 years,51-64 years,No,Yes,1
+November,2010,Andalucía,Almería,Partner,31-40 years,41-50 years,Yes,Yes,1
+November,2010,Andalucía,Sevilla,Partner,31-40 years,31-40 years,Yes,Yes,1
+November,2010,Islas Baleares,Islas Baleares,Partner,41-50 years,>85 years,No,No,1
+November,2010,Canarias,Santa Cruz de Tenerife,Partner,31-40 years,31-40 years,Yes,Yes,1
+November,2010,Comunidad Valenciana,Valencia,Partner,51-64 years,41-50 years,No,No,1
+November,2010,Comunidad de Madrid,Madrid,Ex-partner,16-17 years,18-20 years,No,No,1
+November,2010,Comunidad de Madrid,Madrid,Partner,75-84 years,75-84 years,No,Yes,1
+December,2010,Andalucía,Málaga,Partner,21-30 years,21-30 years,No,Yes,1
+December,2010,Castilla - La Mancha,Ciudad Real,Partner,21-30 years,21-30 years,Yes,Yes,1
+December,2010,Cataluña,Barcelona,Partner,41-50 years,31-40 years,No,Yes,1
+December,2010,Comunidad Valenciana,Alicante,Ex-partner,21-30 years,21-30 years,Yes,No,1
+December,2010,Extremadura,Badajoz,Partner,41-50 years,51-64 years,Yes,Yes,1
+December,2010,Comunidad de Madrid,Madrid,Partner,31-40 years,41-50 years,No,Yes,1
+December,2010,País Vasco,Vizcaya,Ex-partner,21-30 years,21-30 years,Yes,No,1
+January,2011,Andalucía,Granada,Partner,21-30 years,31-40 years,No,Yes,1
+January,2011,Andalucía,Jaén,Partner,41-50 years,41-50 years,Yes,No,1
+January,2011,Islas Baleares,Islas Baleares,Partner,65-74 years,>85 years,No,Yes,1
+January,2011,Canarias,Las Palmas,Partner,51-64 years,41-50 years,No,Yes,1
+January,2011,Castilla y León,Segovia,Partner,41-50 years,51-64 years,No,Yes,1
+January,2011,Castilla - La Mancha,Ciudad Real,Partner,41-50 years,41-50 years,No,Yes,1
+January,2011,Comunidad de Madrid,Madrid,Partner,51-64 years,41-50 years,No,Yes,1
+January,2011,Región de Murcia,Murcia,Partner,31-40 years,51-64 years,No,Yes,1
+February,2011,Andalucía,Almería,Partner,41-50 years,31-40 years,No,Yes,1
+February,2011,Andalucía,Málaga,Partner,31-40 years,41-50 years,Yes,No,1
+February,2011,Cataluña,Barcelona,Ex-partner,21-30 years,21-30 years,No,No,1
+February,2011,Cataluña,Tarragona,Partner,41-50 years,31-40 years,Yes,Yes,1
+February,2011,Comunidad Valenciana,Valencia,Partner,31-40 years,65-74 years,No,Yes,1
+March,2011,Andalucía,Granada,Partner,51-64 years,51-64 years,No,Yes,1
+March,2011,Andalucía,Jaén,Ex-partner,41-50 years,41-50 years,Yes,No,1
+March,2011,Comunidad de Madrid,Madrid,Partner,51-64 years,51-64 years,Yes,No,1
+April,2011,Comunidad Valenciana,Alicante,Partner,21-30 years,41-50 years,No,Yes,1
+April,2011,Comunidad de Madrid,Madrid,Partner,18-20 years,21-30 years,No,Yes,1
+April,2011,Comunidad Foral de Navarra,Navarra,Ex-partner,21-30 years,21-30 years,No,No,1
+May,2011,Andalucía,Almería,Ex-partner,21-30 years,41-50 years,No,No,1
+May,2011,Andalucía,Almería,Partner,21-30 years,31-40 years,No,No,1
+May,2011,Andalucía,Córdoba,Partner,21-30 years,21-30 years,No,Yes,1
+May,2011,Cataluña,Barcelona,Partner,31-40 years,41-50 years,No,Yes,1
+May,2011,Cataluña,Girona,Ex-partner,65-74 years,75-84 years,Yes,No,1
+May,2011,Galicia,A Coruña,Ex-partner,18-20 years,21-30 years,No,No,1
+May,2011,Comunidad de Madrid,Madrid,Ex-partner,41-50 years,41-50 years,Yes,Yes,1
+May,2011,Comunidad de Madrid,Madrid,Partner,41-50 years,31-40 years,No,Yes,1
+June,2011,Principado de Asturias,Asturias,Partner,51-64 years,65-74 years,No,Yes,1
+June,2011,Comunidad Valenciana,Valencia,Partner,75-84 years,75-84 years,No,Yes,1
+July,2011,Andalucía,Granada,Partner,18-20 years,21-30 years,No,No,1
+July,2011,Aragón,Zaragoza,Partner,21-30 years,21-30 years,No,Yes,1
+July,2011,Cataluña,Barcelona,Partner,21-30 years,21-30 years,Yes,Yes,1
+July,2011,Comunidad Valenciana,Alicante,Partner,21-30 years,51-64 years,No,Yes,1
+July,2011,Comunidad Valenciana,Valencia,Partner,21-30 years,31-40 years,Yes,Yes,1
+July,2011,Comunidad de Madrid,Madrid,Partner,31-40 years,51-64 years,Yes,Yes,1
+July,2011,País Vasco,Guipúzcoa,Ex-partner,51-64 years,41-50 years,Yes,No,1
+August,2011,Castilla y León,Burgos,Partner,41-50 years,51-64 years,No,No,1
+August,2011,Comunidad de Madrid,Madrid,Partner,65-74 years,65-74 years,No,Yes,1
+August,2011,Región de Murcia,Murcia,Partner,65-74 years,75-84 years,No,Yes,1
+August,2011,País Vasco,Vizcaya,Partner,31-40 years,31-40 years,Yes,No,1
+September,2011,Andalucía,Almería,Partner,31-40 years,41-50 years,No,Yes,1
+September,2011,Andalucía,Cádiz,Partner,65-74 years,65-74 years,No,Yes,1
+September,2011,Andalucía,Sevilla,Ex-partner,41-50 years,41-50 years,Yes,No,1
+September,2011,Canarias,Santa Cruz de Tenerife,Partner,31-40 years,51-64 years,No,Yes,1
+September,2011,Comunidad Valenciana,Castellón,Partner,41-50 years,51-64 years,No,Yes,1
+September,2011,Comunidad Valenciana,Valencia,Partner,31-40 years,51-64 years,Yes,No,1
+October,2011,Andalucía,Málaga,Partner,51-64 years,51-64 years,No,Yes,1
+October,2011,Principado de Asturias,Asturias,Partner,21-30 years,21-30 years,No,Yes,1
+October,2011,Canarias,Las Palmas,Partner,31-40 years,31-40 years,No,Yes,1
+October,2011,Cataluña,Girona,Partner,31-40 years,41-50 years,No,Yes,1
+October,2011,Comunidad Valenciana,Alicante,Partner,75-84 years,75-84 years,No,Yes,1
+October,2011,Galicia,Pontevedra,Partner,31-40 years,41-50 years,No,No,1
+November,2011,Aragón,Zaragoza,Partner,21-30 years,51-64 years,No,Yes,1
+November,2011,Cataluña,Barcelona,Partner,41-50 years,41-50 years,No,Yes,1
+November,2011,Cataluña,Lleida,Partner,31-40 years,51-64 years,No,No,1
+December,2011,Andalucía,Almería,Partner,31-40 years,51-64 years,No,Yes,1
+December,2011,Andalucía,Sevilla,Ex-partner,21-30 years,31-40 years,Yes,No,1
+December,2011,Cataluña,Girona,Partner,51-64 years,51-64 years,No,Yes,1
+December,2011,Galicia,A Coruña,Ex-partner,31-40 years,31-40 years,No,No,1
+December,2011,Comunidad de Madrid,Madrid,Ex-partner,51-64 years,41-50 years,No,No,1
+December,2011,Comunidad de Madrid,Madrid,Partner,31-40 years,31-40 years,No,Yes,1
+January,2012,Andalucía,Jaén,Ex-partner,41-50 years,51-64 years,No,No,1
+January,2012,Cataluña,Barcelona,Partner,51-64 years,21-30 years,No,Yes,1
+January,2012,Cataluña,Barcelona,Partner,51-64 years,51-64 years,No,Yes,1
+January,2012,Cataluña,Barcelona,Partner,51-64 years,65-74 years,No,Yes,1
+January,2012,Cataluña,Girona,Partner,21-30 years,31-40 years,No,Yes,1
+January,2012,Cataluña,Tarragona,Partner,31-40 years,31-40 years,No,Yes,1
+January,2012,Cataluña,Tarragona,Partner,41-50 years,51-64 years,No,Yes,1
+January,2012,Extremadura,Badajoz,Partner,75-84 years,75-84 years,No,Yes,1
+February,2012,Comunidad Valenciana,Valencia,Partner,41-50 years,41-50 years,No,No,1
+February,2012,Comunidad de Madrid,Madrid,Partner,41-50 years,31-40 years,No,No,1
+March,2012,Galicia,Ourense,Partner,65-74 years,75-84 years,No,Yes,1
+March,2012,País Vasco,Guipúzcoa,Partner,31-40 years,21-30 years,No,Yes,1
+April,2012,Andalucía,Sevilla,Partner,21-30 years,18-20 years,No,Yes,1
+April,2012,Andalucía,Sevilla,Partner,51-64 years,51-64 years,No,Yes,1
+April,2012,Canarias,Las Palmas,Partner,21-30 years,31-40 years,No,No,1
+April,2012,Comunidad de Madrid,Madrid,Partner,65-74 years,>85 years,No,Yes,1
+May,2012,Andalucía,Málaga,Partner,75-84 years,75-84 years,No,Yes,1
+May,2012,Castilla - La Mancha,Ciudad Real,Partner,41-50 years,41-50 years,No,Yes,1
+May,2012,Comunidad Valenciana,Alicante,Partner,21-30 years,51-64 years,No,Yes,1
+June,2012,Andalucía,Málaga,Partner,65-74 years,75-84 years,No,Yes,1
+June,2012,Aragón,Zaragoza,Partner,21-30 years,41-50 years,No,Yes,1
+June,2012,Principado de Asturias,Asturias,Partner,51-64 years,65-74 years,No,Yes,1
+June,2012,Islas Baleares,Islas Baleares,Partner,51-64 years,51-64 years,Yes,Yes,1
+June,2012,Cataluña,Barcelona,Partner,65-74 years,65-74 years,No,Yes,1
+June,2012,Cataluña,Girona,Partner,21-30 years,21-30 years,Yes,Yes,1
+June,2012,Cataluña,Tarragona,Partner,21-30 years,31-40 years,Yes,Yes,1
+June,2012,Comunidad Valenciana,Alicante,Partner,21-30 years,31-40 years,Yes,Yes,1
+June,2012,Comunidad Valenciana,Alicante,Partner,31-40 years,41-50 years,Yes,Yes,1
+June,2012,Galicia,A Coruña,Ex-partner,21-30 years,31-40 years,Yes,No,1
+July,2012,Canarias,Santa Cruz de Tenerife,Ex-partner,41-50 years,41-50 years,Yes,No,1
+July,2012,Comunidad Valenciana,Valencia,Partner,51-64 years,51-64 years,No,Yes,1
+July,2012,Comunidad de Madrid,Madrid,Partner,51-64 years,31-40 years,No,Yes,1
+August,2012,Castilla - La Mancha,Guadalajara,Partner,21-30 years,31-40 years,No,No,1
+August,2012,Comunidad de Madrid,Madrid,Partner,31-40 years,41-50 years,No,Yes,1
+September,2012,Cataluña,Barcelona,Partner,31-40 years,31-40 years,No,No,1
+September,2012,Comunidad Valenciana,Valencia,Partner,31-40 years,31-40 years,No,No,1
+October,2012,Andalucía,Jaén,Partner,21-30 years,21-30 years,No,Yes,1
+October,2012,Andalucía,Jaén,Partner,41-50 years,41-50 years,No,Yes,1
+October,2012,Islas Baleares,Islas Baleares,Partner,65-74 years,51-64 years,No,Yes,1
+October,2012,Castilla y León,León,Ex-partner,21-30 years,31-40 years,No,No,1
+October,2012,Castilla - La Mancha,Albacete,Ex-partner,<16 years,31-40 years,No,No,1
+October,2012,Castilla - La Mancha,Cuenca,Ex-partner,31-40 years,31-40 years,Yes,No,1
+October,2012,Cataluña,Tarragona,Partner,65-74 years,75-84 years,No,Yes,1
+November,2012,Andalucía,Granada,Partner,75-84 years,75-84 years,No,Yes,1
+November,2012,Castilla y León,León,Partner,41-50 years,51-64 years,No,Yes,1
+November,2012,Galicia,A Coruña,Partner,51-64 years,65-74 years,Yes,Yes,1
+November,2012,Comunidad de Madrid,Madrid,Partner,18-20 years,21-30 years,No,Yes,1
+November,2012,Comunidad de Madrid,Madrid,Partner,21-30 years,31-40 years,No,Yes,1
+November,2012,País Vasco,Álava,Partner,65-74 years,65-74 years,No,Yes,1
+December,2012,Cataluña,Barcelona,Ex-partner,41-50 years,41-50 years,No,No,1
+December,2012,Cataluña,Barcelona,Partner,75-84 years,75-84 years,No,Yes,1
+December,2012,Galicia,A Coruña,Ex-partner,41-50 years,41-50 years,Yes,No,1
+January,2013,Castilla - La Mancha,Albacete,Partner,21-30 years,51-64 years,No,Yes,1
+January,2013,Comunidad Valenciana,Alicante,Ex-partner,31-40 years,41-50 years,No,No,1
+January,2013,Comunidad Valenciana,Valencia,Ex-partner,31-40 years,31-40 years,No,No,1
+January,2013,Comunidad de Madrid,Madrid,Partner,31-40 years,41-50 years,No,Yes,1
+February,2013,Aragón,Zaragoza,Partner,31-40 years,31-40 years,No,Yes,1
+February,2013,Islas Baleares,Islas Baleares,Ex-partner,41-50 years,41-50 years,No,No,1
+February,2013,Canarias,Santa Cruz de Tenerife,Ex-partner,31-40 years,41-50 years,No,No,1
+February,2013,Castilla - La Mancha,Ciudad Real,Ex-partner,21-30 years,31-40 years,Yes,No,1
+March,2013,Andalucía,Sevilla,Partner,41-50 years,41-50 years,Yes,Yes,1
+March,2013,Islas Baleares,Islas Baleares,Partner,31-40 years,31-40 years,No,Yes,1
+March,2013,Cataluña,Tarragona,Ex-partner,31-40 years,31-40 years,No,No,1
+March,2013,Comunidad Valenciana,Alicante,Partner,41-50 years,41-50 years,No,Yes,1
+March,2013,Comunidad Valenciana,Valencia,Partner,31-40 years,41-50 years,Yes,Yes,1
+March,2013,Galicia,Lugo,Partner,31-40 years,41-50 years,No,Yes,1
+March,2013,Comunidad de Madrid,Madrid,Partner,31-40 years,31-40 years,No,Yes,1
+March,2013,Comunidad de Madrid,Madrid,Partner,65-74 years,65-74 years,No,Yes,1
+April,2013,Andalucía,Jaén,Partner,65-74 years,75-84 years,No,Yes,1
+April,2013,Aragón,Zaragoza,Partner,41-50 years,51-64 years,No,Yes,1
+April,2013,Castilla y León,Zamora,Partner,51-64 years,65-74 years,No,Yes,1
+April,2013,Cataluña,Lleida,Partner,21-30 years,31-40 years,Yes,Yes,1
+April,2013,Comunidad de Madrid,Madrid,Partner,31-40 years,41-50 years,No,Yes,1
+April,2013,Comunidad de Madrid,Madrid,Partner,65-74 years,75-84 years,No,Yes,1
+May,2013,Andalucía,Córdoba,Partner,51-64 years,51-64 years,No,Yes,1
+May,2013,Andalucía,Jaén,Ex-partner,51-64 years,41-50 years,No,No,1
+May,2013,Cantabria,Cantabria,Ex-partner,21-30 years,31-40 years,Yes,No,1
+May,2013,Castilla y León,León,Partner,18-20 years,21-30 years,No,No,1
+May,2013,Comunidad de Madrid,Madrid,Partner,31-40 years,21-30 years,No,No,1
+May,2013,País Vasco,Álava,Partner,21-30 years,41-50 years,No,Yes,1
+June,2013,Andalucía,Cádiz,Ex-partner,21-30 years,21-30 years,No,No,1
+June,2013,Andalucía,Córdoba,Partner,75-84 years,75-84 years,No,Yes,1
+July,2013,Andalucía,Granada,Ex-partner,21-30 years,31-40 years,No,No,1
+July,2013,Canarias,Las Palmas,Partner,31-40 years,21-30 years,No,No,1
+August,2013,Principado de Asturias,Asturias,Partner,75-84 years,>85 years,No,Yes,1
+August,2013,Extremadura,Badajoz,Partner,65-74 years,75-84 years,Yes,No,1
+September,2013,Andalucía,Málaga,Ex-partner,21-30 years,31-40 years,No,No,1
+September,2013,Castilla y León,León,Partner,21-30 years,21-30 years,No,Yes,1
+September,2013,Castilla y León,Palencia,Partner,41-50 years,41-50 years,No,No,1
+September,2013,Castilla - La Mancha,Guadalajara,Partner,31-40 years,31-40 years,No,Yes,1
+September,2013,Comunidad Valenciana,Valencia,Partner,41-50 years,41-50 years,No,Yes,1
+September,2013,Galicia,Ourense,Ex-partner,51-64 years,65-74 years,Yes,No,1
+September,2013,Comunidad de Madrid,Madrid,Partner,31-40 years,41-50 years,No,Yes,1
+September,2013,Comunidad de Madrid,Madrid,Partner,41-50 years,31-40 years,No,Yes,1
+October,2013,Andalucía,Almería,Ex-partner,21-30 years,31-40 years,No,No,1
+October,2013,Cataluña,Lleida,Ex-partner,<16 years,18-20 years,No,No,1
+October,2013,Comunidad Valenciana,Alicante,Partner,21-30 years,31-40 years,No,Yes,1
+October,2013,Comunidad Valenciana,Castellón,Partner,51-64 years,51-64 years,No,Yes,1
+October,2013,Comunidad Valenciana,Valencia,Partner,41-50 years,41-50 years,Yes,Yes,1
+November,2013,Andalucía,Málaga,Ex-partner,31-40 years,41-50 years,Yes,No,1
+November,2013,Andalucía,Málaga,Ex-partner,65-74 years,65-74 years,No,No,1
+November,2013,Castilla - La Mancha,Cuenca,Partner,31-40 years,41-50 years,No,Yes,1
+November,2013,Comunidad Valenciana,Valencia,Ex-partner,21-30 years,31-40 years,No,No,1
+November,2013,Comunidad de Madrid,Madrid,Ex-partner,41-50 years,31-40 years,Yes,No,1
+December,2013,Cataluña,Barcelona,Ex-partner,31-40 years,31-40 years,Yes,No,1
+December,2013,Galicia,Pontevedra,Partner,41-50 years,31-40 years,No,Yes,1
+January,2014,Andalucía,Córdoba,Partner,41-50 years,31-40 years,No,Yes,1
+January,2014,Canarias,Santa Cruz de Tenerife,Partner,31-40 years,31-40 years,No,Yes,1
+January,2014,Cataluña,Barcelona,Partner,41-50 years,41-50 years,Yes,Yes,1
+January,2014,Cataluña,Tarragona,Partner,51-64 years,51-64 years,Yes,Yes,1
+January,2014,Comunidad Valenciana,Alicante,Partner,51-64 years,51-64 years,Yes,Yes,1
+January,2014,Galicia,Lugo,Partner,41-50 years,51-64 years,No,Yes,1
+January,2014,Comunidad de Madrid,Madrid,Partner,21-30 years,18-20 years,No,No,1
+February,2014,Cataluña,Barcelona,Partner,41-50 years,41-50 years,Yes,Yes,1
+February,2014,Cataluña,Barcelona,Partner,75-84 years,75-84 years,No,Yes,1
+February,2014,Comunidad Valenciana,Alicante,Partner,51-64 years,21-30 years,No,Yes,1
+February,2014,Galicia,A Coruña,Partner,31-40 years,41-50 years,Yes,No,1
+February,2014,Comunidad de Madrid,Madrid,Ex-partner,41-50 years,31-40 years,No,No,1
+March,2014,Andalucía,Cádiz,Partner,75-84 years,75-84 years,No,Yes,1
+March,2014,Andalucía,Málaga,Ex-partner,41-50 years,41-50 years,No,No,1
+March,2014,Islas Baleares,Islas Baleares,Partner,31-40 years,21-30 years,No,Yes,1
+March,2014,Castilla y León,Valladolid,Ex-partner,31-40 years,31-40 years,No,No,1
+March,2014,Cataluña,Barcelona,Partner,51-64 years,51-64 years,Yes,No,1
+March,2014,Comunidad de Madrid,Madrid,Ex-partner,41-50 years,41-50 years,No,No,1
+March,2014,País Vasco,Vizcaya,Ex-partner,31-40 years,31-40 years,No,No,1
+March,2014,Melilla,Melilla,Partner,51-64 years,65-74 years,No,Yes,1
+April,2014,Andalucía,Cádiz,Partner,41-50 years,41-50 years,No,Yes,1
+April,2014,Cataluña,Tarragona,Partner,75-84 years,75-84 years,No,Yes,1
+April,2014,Galicia,A Coruña,Partner,41-50 years,41-50 years,Yes,Yes,1
+April,2014,Galicia,Lugo,Partner,65-74 years,65-74 years,No,Yes,1
+May,2014,Andalucía,Almería,Partner,31-40 years,31-40 years,No,Yes,1
+May,2014,Comunidad de Madrid,Madrid,Partner,21-30 years,31-40 years,Yes,No,1
+June,2014,Andalucía,Granada,Partner,51-64 years,51-64 years,No,Yes,1
+June,2014,Islas Baleares,Islas Baleares,Partner,41-50 years,41-50 years,No,No,1
+June,2014,Castilla y León,León,Partner,51-64 years,51-64 years,Yes,No,1
+July,2014,Andalucía,Málaga,Ex-partner,21-30 years,21-30 years,Yes,No,1
+July,2014,Islas Baleares,Islas Baleares,Partner,41-50 years,51-64 years,No,No,1
+July,2014,Galicia,Pontevedra,Partner,75-84 years,75-84 years,No,Yes,1
+August,2014,Andalucía,Almería,Ex-partner,41-50 years,31-40 years,Yes,No,1
+August,2014,Andalucía,Málaga,Partner,31-40 years,31-40 years,No,Yes,1
+August,2014,Cataluña,Barcelona,Partner,41-50 years,41-50 years,No,Yes,1
+August,2014,Cataluña,Barcelona,Partner,41-50 years,65-74 years,No,Yes,1
+August,2014,Comunidad Valenciana,Alicante,Partner,31-40 years,31-40 years,No,Yes,1
+August,2014,Comunidad Valenciana,Alicante,Partner,>85 years,>85 years,No,Yes,1
+August,2014,Galicia,Pontevedra,Partner,31-40 years,41-50 years,No,Yes,1
+August,2014,Comunidad de Madrid,Madrid,Partner,31-40 years,51-64 years,No,Yes,1
+September,2014,Andalucía,Granada,Partner,51-64 years,51-64 years,No,Yes,1
+September,2014,Comunidad Valenciana,Alicante,Partner,75-84 years,65-74 years,No,Yes,1
+October,2014,Cataluña,Barcelona,Partner,21-30 years,41-50 years,Yes,Yes,1
+October,2014,Comunidad Valenciana,Valencia,Partner,41-50 years,41-50 years,No,Yes,1
+November,2014,Cataluña,Barcelona,Ex-partner,41-50 years,41-50 years,Yes,No,1
+November,2014,Cataluña,Barcelona,Partner,31-40 years,31-40 years,No,Yes,1
+November,2014,Cataluña,Girona,Partner,31-40 years,51-64 years,Yes,Yes,1
+November,2014,Comunidad de Madrid,Madrid,Partner,31-40 years,31-40 years,Yes,Yes,1
+November,2014,País Vasco,Álava,Ex-partner,41-50 years,41-50 years,No,No,1
+December,2014,Castilla y León,Valladolid,Partner,31-40 years,41-50 years,Yes,Yes,1
+December,2014,Comunidad Valenciana,Valencia,Partner,31-40 years,31-40 years,No,Yes,1
+December,2014,Comunidad de Madrid,Madrid,Ex-partner,31-40 years,51-64 years,No,No,1
+December,2014,País Vasco,Vizcaya,Partner,51-64 years,51-64 years,No,Yes,1
+December,2014,Melilla,Melilla,Ex-partner,18-20 years,31-40 years,Yes,No,1
+January,2015,Cataluña,Barcelona,Partner,31-40 years,41-50 years,No,Yes,1
+January,2015,Comunidad Valenciana,Alicante,Partner,65-74 years,51-64 years,No,Yes,1
+January,2015,Comunidad Valenciana,Alicante,Partner,65-74 years,65-74 years,Yes,No,1
+February,2015,Andalucía,Málaga,Partner,31-40 years,51-64 years,No,Yes,1
+February,2015,Comunidad Valenciana,Valencia,Ex-partner,31-40 years,41-50 years,No,No,1
+March,2015,Andalucía,Málaga,Partner,21-30 years,41-50 years,No,Yes,1
+March,2015,Cataluña,Lleida,Partner,21-30 years,31-40 years,No,Yes,1
+March,2015,Comunidad Valenciana,Alicante,Partner,41-50 years,31-40 years,No,Yes,1
+March,2015,Extremadura,Cáceres,Partner,21-30 years,21-30 years,No,Yes,1
+April,2015,País Vasco,Álava,Partner,21-30 years,31-40 years,No,Yes,1
+May,2015,Andalucía,Almería,Partner,41-50 years,41-50 years,No,Yes,1
+May,2015,Comunidad Valenciana,Alicante,Ex-partner,41-50 years,41-50 years,Yes,No,1
+May,2015,Galicia,Ourense,Partner,65-74 years,75-84 years,No,Yes,1
+May,2015,Comunidad de Madrid,Madrid,Partner,41-50 years,41-50 years,No,Yes,1
+June,2015,Andalucía,Sevilla,Partner,41-50 years,51-64 years,Yes,Yes,1
+June,2015,Andalucía,Málaga,Partner,31-40 years,51-64 years,No,No,1
+June,2015,Cantabria,Cantabria,Partner,31-40 years,41-50 years,No,Yes,1
+June,2015,Castilla y León,Soria,Partner,31-40 years,31-40 years,No,Yes,1
+June,2015,Cataluña,Barcelona,Partner,41-50 years,41-50 years,No,Yes,1
+July,2015,Andalucía,Málaga,Partner,51-64 years,51-64 years,Yes,Yes,1
+July,2015,Principado de Asturias,Asturias,Partner,65-74 years,65-74 years,No,Yes,1
+July,2015,Principado de Asturias,Asturias,Ex-partner,41-50 years,31-40 years,No,No,1
+July,2015,Islas Baleares,Islas Baleares,Ex-partner,31-40 years,31-40 years,No,No,1
+July,2015,Canarias,Santa Cruz de Tenerife,Ex-partner,21-30 years,31-40 years,No,No,1
+July,2015,Cataluña,Barcelona,Partner,31-40 years,41-50 years,No,Yes,1
+July,2015,Comunidad Valenciana,Valencia,Partner,41-50 years,41-50 years,No,Yes,1
+July,2015,Galicia,Pontevedra,Ex-partner,21-30 years,31-40 years,No,No,1
+July,2015,Comunidad de Madrid,Madrid,Ex-partner,21-30 years,21-30 years,No,No,1
+August,2015,Andalucía,Granada,Partner,65-74 years,65-74 years,No,Yes,1
+August,2015,Andalucía,Jaén,Partner,41-50 years,51-64 years,No,No,1
+August,2015,Castilla - La Mancha,Cuenca,Ex-partner,21-30 years,21-30 years,No,No,1
+August,2015,Cataluña,Barcelona,Partner,41-50 years,41-50 years,No,Yes,1
+August,2015,Cataluña,Barcelona,Partner,41-50 years,51-64 years,No,No,1
+August,2015,País Vasco,Vizcaya,In separation process,31-40 years,31-40 years,No,No,1
+September,2015,Comunidad Valenciana,Valencia,Partner,41-50 years,41-50 years,No,No,1
+September,2015,Galicia,Pontevedra,Partner,41-50 years,31-40 years,No,No,1
+October,2015,Canarias,Santa Cruz de Tenerife,Ex-partner,31-40 years,31-40 years,Yes,No,1
+October,2015,Castilla y León,Palencia,Partner,31-40 years,41-50 years,No,Yes,1
+October,2015,Galicia,Pontevedra,Ex-partner,31-40 years,31-40 years,No,No,1
+October,2015,Galicia,Pontevedra,Partner,31-40 years,51-64 years,Yes,Yes,1
+October,2015,Galicia,Pontevedra,Partner,65-74 years,51-64 years,No,Yes,1
+October,2015,Región de Murcia,Murcia,Partner,21-30 years,31-40 years,Yes,Yes,1
+October,2015,País Vasco,Vizcaya,Partner,31-40 years,31-40 years,No,No,1
+November,2015,Comunidad Valenciana,Alicante,Partner,41-50 years,41-50 years,No,Yes,1
+November,2015,Andalucía,Córdoba,Partner,21-30 years,51-64 years,No,No,1
+November,2015,Principado de Asturias,Asturias,Partner,65-74 years,51-64 years,No,Yes,1
+November,2015,Comunidad Valenciana,Valencia,Ex-partner,41-50 years,41-50 years,Yes,No,1
+November,2015,Andalucía,Sevilla,Partner,41-50 years,41-50 years,No,Yes,1
+November,2015,Andalucía,Sevilla,Partner,41-50 years,51-64 years,No,Yes,1
+November,2015,Comunidad de Madrid,Madrid,Partner,31-40 years,31-40 years,Yes,Yes,1
+December,2015,Andalucía,Granada,Partner,51-64 years,51-64 years,No,Yes,1
+December,2015,Andalucía,Sevilla,Partner,31-40 years,31-40 years,Yes,No,1
+December,2015,Aragón,Zaragoza,Partner,41-50 years,41-50 years,No,Yes,1
+December,2015,Canarias,Las Palmas,Partner,21-30 years,31-40 years,Yes,Yes,1
+December,2015,Comunidad Valenciana,Alicante,Partner,31-40 years,31-40 years,No,Yes,2
+December,2015,Galicia,Pontevedra,Partner,65-74 years,65-74 years,Yes,Yes,1
+December,2015,Comunidad de Madrid,Madrid,Ex-partner,41-50 years,41-50 years,Yes,No,1
+December,2015,Galicia,A Coruña,Partner,75-84 years,75-84 years,Yes,Yes,1
+December,2015,Andalucía,Almería,Partner,21-30 years,51-64 years,No,Yes,1
+January,2016,Principado de Asturias,Asturias,Partner,41-50 years,41-50 years,No,Yes,1
+January,2016,Illes Balears,Illes Balears,Partner,41-50 years,41-50 years,No,Yes,1
+January,2016,Castilla - La Mancha,Guadalajara,Partner,31-40 years,31-40 years,No,Yes,1
+January,2016,Castilla - La Mancha,Toledo,Partner,51-64 years,51-64 years,No,Yes,1
+January,2016,Cataluña,Tarragona,In separation process,41-50 years,51-64 years,No,Yes,1
+January,2016,Comunitat Valenciana,Valencia/València,Partner,65-74 years,75-84 years,No,Yes,1
+January,2016,Extremadura,Badajoz,Ex-partner,21-30 years,21-30 years,Yes,No,1
+January,2016,Comunidad de Madrid,Madrid,In separation process,41-50 years,31-40 years,Yes,Yes,1
+February,2016,Aragón,Zaragoza,Ex-partner,31-40 years,41-50 years,Yes,No,1
+February,2016,Comunitat Valenciana,Valencia/València,Partner,65-74 years,75-84 years,No,Yes,1
+February,2016,Galicia,Lugo,In separation process,31-40 years,21-30 years,No,No,1
+March,2016,Principado de Asturias,Asturias,Partner,31-40 years,41-50 years,Yes,Yes,1
+March,2016,Illes Balears,Illes Balears,Partner,18-20 years,21-30 years,Yes,No,1
+April,2016,Castilla y León,Salamanca,Partner,41-50 years,31-40 years,Yes,Yes,1
+April,2016,Cataluña,Barcelona,Ex-partner,31-40 years,41-50 years,No,No,1
+April,2016,Comunitat Valenciana,Alicante/Alacant,Partner,41-50 years,41-50 years,Yes,Yes,1
+May,2016,Aragón,Zaragoza,Partner,65-74 years,65-74 years,No,Yes,1
+May,2016,Illes Balears,Illes Balears,Partner,41-50 years,51-64 years,No,Yes,1
+May,2016,Canarias,Santa Cruz de Tenerife,Partner,51-64 years,65-74 years,Yes,Yes,1
+June,2016,Andalucía,Sevilla,In separation process,31-40 years,31-40 years,No,No,1
+June,2016,Cataluña,Barcelona,Partner,31-40 years,51-64 years,No,Yes,1
+July,2016,Andalucía,Huelva,Ex-partner,41-50 years,41-50 years,Yes,No,1
+July,2016,Aragón,Zaragoza,In separation process,21-30 years,31-40 years,Yes,No,1
+July,2016,Castilla y León,Burgos,In separation process,41-50 years,51-64 years,No,No,1
+July,2016,Comunitat Valenciana,Castellón/Castelló,In separation process,41-50 years,31-40 years,No,Yes,1
+July,2016,País Vasco,Bizkaia,Partner,51-64 years,41-50 years,Yes,Yes,1
+July,2016,Melilla,Melilla,Ex-partner,21-30 years,31-40 years,Yes,No,1
+August,2016,Illes Balears,Illes Balears,In separation process,31-40 years,31-40 years,No,Yes,1
+August,2016,Canarias,Las Palmas,Partner,51-64 years,51-64 years,Ex-officio,Yes,1
+August,2016,Comunitat Valenciana,Alicante/Alacant,Partner,31-40 years,31-40 years,No,Yes,1
+September,2016,Illes Balears,Illes Balears,In separation process,31-40 years,21-30 years,No,Yes,1
+September,2016,Cataluña,Barcelona,Partner,31-40 years,41-50 years,No,Yes,1
+October,2016,Andalucía,Sevilla,In separation process,21-30 years,41-50 years,Yes,No,1
+October,2016,Castilla y León,Ávila,In separation process,31-40 years,31-40 years,No,Yes,1
+October,2016,Castilla y León,Salamanca,In separation process,51-64 years,51-64 years,Yes,Yes,1
+October,2016,Comunitat Valenciana,Alicante/Alacant,Partner,75-84 years,75-84 years,No,Yes,1
+November,2016,Illes Balears,Illes Balears,Partner,51-64 years,41-50 years,No,Yes,1
+November,2016,Castilla y León,Burgos,Ex-partner,41-50 years,51-64 years,No,No,1
+November,2016,Castilla y León,León,In separation process,51-64 years,51-64 years,Yes,Yes,1
+November,2016,Comunidad de Madrid,Madrid,Partner,21-30 years,21-30 years,No,No,1
+December,2016,Cataluña,Barcelona,In separation process,51-64 years,65-74 years,No,Yes,1
+December,2016,Cataluña,Tarragona,Partner,41-50 years,41-50 years,No,Yes,1
+December,2016,Galicia,A Coruña,Ex-partner,21-30 years,31-40 years,No,Yes,1
+December,2016,Galicia,Pontevedra,In separation process,21-30 years,31-40 years,No,No,1
+January,2017,Andalucía,Almería,Ex-partner,31-40 years,21-30 years,No,No,1
+January,2017,Castilla - La Mancha,Toledo,Partner,31-40 years,41-50 years,Yes,Yes,1
+January,2017,Galicia,Ourense,Partner,51-64 years,51-64 years,No,Yes,1
+January,2017,Comunidad de Madrid,Madrid,Ex-partner,31-40 years,18-20 years,Yes,No,1
+January,2017,Comunidad de Madrid,Madrid,In separation process,21-30 years,21-30 years,No,Yes,1
+January,2017,Comunidad Foral de Navarra,Navarra,Partner,41-50 years,41-50 years,No,Yes,1
+February,2017,Castilla - La Mancha,Ciudad Real,Partner,41-50 years,51-64 years,No,Unknown,1
+February,2017,Castilla - La Mancha,Toledo,Partner,21-30 years,31-40 years,No,Yes,1
+February,2017,Castilla - La Mancha,Toledo,Partner,31-40 years,41-50 years,No,Yes,1
+February,2017,Cataluña,Barcelona,Partner,75-84 years,75-84 years,No,Yes,1
+February,2017,Cataluña,Barcelona,In separation process,31-40 years,51-64 years,Yes,No,1
+February,2017,Comunitat Valenciana,Alicante/Alacant,Partner,75-84 years,>85 years,No,Yes,1
+February,2017,Comunitat Valenciana,Valencia/València,Ex-partner,41-50 years,31-40 years,Yes,No,1
+February,2017,Comunitat Valenciana,Valencia/València,Partner,41-50 years,51-64 years,No,No,1
+February,2017,Extremadura,Badajoz,Partner,>85 years,>85 years,No,Yes,1
+March,2017,Canarias,Las Palmas,Partner,21-30 years,31-40 years,No,Yes,1
+March,2017,Castilla - La Mancha,Ciudad Real,Partner,41-50 years,41-50 years,No,Yes,1
+March,2017,Comunidad de Madrid,Madrid,Partner,31-40 years,31-40 years,No,Yes,1
+April,2017,Andalucía,Almería,Ex-partner,21-30 years,21-30 years,No,No,1
+April,2017,Andalucía,Sevilla,In separation process,31-40 years,31-40 years,No,Yes,1
+April,2017,Canarias,Santa Cruz de Tenerife,In separation process,41-50 years,31-40 years,No,No,1
+April,2017,Cataluña,Barcelona,Partner,41-50 years,31-40 years,No,Yes,1
+May,2017,Comunidad de Madrid,Madrid,Partner,31-40 years,41-50 years,No,Yes,1
+May,2017,Comunidad de Madrid,Madrid,Partner,41-50 years,31-40 years,No,Yes,1
+May,2017,Comunidad de Madrid,Madrid,Partner,51-64 years,51-64 years,No,Yes,1
+May,2017,Comunidad de Madrid,Madrid,In separation process,21-30 years,31-40 years,Yes,No,1
+May,2017,Región de Murcia,Murcia,Partner,31-40 years,41-50 years,No,No,1
+June,2017,Andalucía,Granada,Partner,51-64 years,41-50 years,No,Yes,1
+June,2017,Andalucía,Sevilla,Ex-partner,31-40 years,51-64 years,Yes,No,1
+June,2017,Cataluña,Tarragona,In separation process,21-30 years,41-50 years,No,No,1
+July,2017,Andalucía,Granada,Partner,65-74 years,65-74 years,No,Yes,1

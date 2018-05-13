@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "miserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "cors": "^2.8.4",
+    "csv": "^3.0.2",
+    "csv-parse": "^2.4.0",
+    "csv-reader": "^1.0.3",
+    "express": "^4.16.3",
+    "fast-csv": "^2.4.1"
+  }
+}

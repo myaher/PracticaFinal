@@ -1,27 +1,19 @@
-# Dataviz3
+# Arquitectura 
+
+Desde el frontend, con Angular hacemos llamadas AJAX a nuestra API en el servidor Node. Este consulta al archivo CSV. Este devuelve el objeto como respuesta a Node y este lo sirve como JSON a Angular que lo muestra en el frontend sin necesidad de recargar la página, creando así una Single Page Application
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
+## Tratamiento de Datos
+
+Para la carga de datos, limpieza, y depuración de datos, se utilizo Jupyter Notebook, se incluye el archivo “\Server\CargaDatosVisualizacion.ipynb”, donde se realiza el procedimiento de depuración, se generan los datos del grafico (año vs cantidad de Victimas), el archivo “\Server\Victims.csv”
+
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Inicializar el servicio el js, para la carga de datos.  >  node miserver.js
 
-## Code scaffolding
+Validar la carga de datos navegando: http://localhost:3000/data
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Correr el comando npm start para subir angular, navegar http://localhost:4200/.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).

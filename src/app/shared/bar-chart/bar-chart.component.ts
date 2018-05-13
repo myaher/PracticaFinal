@@ -94,17 +94,6 @@ export class BarChartComponent implements OnInit, OnChanges {
     update.exit().remove();
 
     
-    /*
-    svg.selectAll('text')
-    this.data(data)
-      .enter()
-      .append('text')
-      .text(function(d){return d.gdp;})
-      .attr('x',function(d) {return xScale(d[0])+ xS7.rangeBand()/2;})
-      .attr('y', function(d) {return yScale(d.gdp) + 12 })
-      .style("fill","white")
-      .style("text-anchor","middle");*/
-
     // update existing bars
     this.chart.selectAll('.bar').transition()
       .attr('x', d => this.xScale(d[0]))
